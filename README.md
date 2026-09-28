@@ -108,6 +108,7 @@
 - [MinerGate](https://minergate.com/) - A mining pool supporting various altcoins.
 - [CoinFly](https://coinfly.io/) - A mining OS and management platform for altcoin mining.
 - [2Miners](https://2miners.com/) - A mining pool for multiple altcoins.
+- [Zecnero Mining Guide](https://zecnero.org/mine) - How to CPU-mine Zecnero, a Zcash fork using the RandomX algorithm.
 
 ## Research Papers
 
